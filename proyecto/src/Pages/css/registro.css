@@ -1,0 +1,11 @@
+.registro{
+    width: '100%';
+    margin: 'auto';
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+.registro input{
+    margin: 0;
+    width: 50%;
+}

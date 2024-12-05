@@ -1,0 +1,27 @@
+.sinopsis{
+    text-align: justify;
+    clear: both;
+}
+.portada{
+    margin: 10%;
+    overflow: hidden;
+}
+.portada img{
+    width: 40vw;
+    float: left;
+}
+h1{
+    text-align: center;
+}
+.datos{
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: #9DA1AD;
+    align-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 30%;
+    margin-bottom: -20%;
+    align-items: flex-start;
+    border-radius: 10px;;
+}
