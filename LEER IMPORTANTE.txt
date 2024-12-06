@@ -1,3 +1,3 @@
 No se exactamente como ni porque, pero este repositorio me está dando muchos problemas, así que hice este otro, que si parece funcionar bien.
 
-https://github.com/David-138/MangaList.git
+ git clone --branch master https://github.com/David-138/MangaList.git
